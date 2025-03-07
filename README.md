@@ -1,2 +1,4 @@
 # bito-translate-json
-Uses Bito to translate a JSON file
+Uses Bito-cli to translate a JSON file
+
+Requires Bito-cli https://github.com/gitbito/CLI
